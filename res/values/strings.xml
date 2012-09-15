@@ -3,5 +3,6 @@
 
     <string name="hello">Hello World, FimActivity!</string>
     <string name="app_name">Fim</string>
+    <string name="log_in">Log In</string>
 
 </resources>
